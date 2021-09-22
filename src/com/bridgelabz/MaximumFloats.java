@@ -12,6 +12,7 @@ public class MaximumFloats {
 
         return max;
     }
+     // Method to compare three float values and get the maximum value.
 
     public static Float maxFloat(Float x, Float y, Float z){
         Float max = x;
